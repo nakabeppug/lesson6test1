@@ -61,7 +61,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       </label>
       <div class="buttons">
         <button type="submit">計算する</button>
-        <button type="button" onclick="clearForm()">クリア</button>
+        <button type="button" onclick="clearForm()">入力をリセット</button>
       </div>
     </form>
 
